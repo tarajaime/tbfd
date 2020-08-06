@@ -3,12 +3,12 @@
   "name": "TBFD",
   "icons": [
     {
-      "src": "/images/icon-192.png",
+      "src": "/images/Logo_BF__Icon_1_ClassBlue.jpg",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "/images/icon-512.png",
+      "src": "/images/favicon.png",
       "type": "image/png",
       "sizes": "512x512"
     }
