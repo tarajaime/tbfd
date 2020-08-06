@@ -1,5 +1,5 @@
 myPrompts = [ 
-"What would make what I am doing right now easiest? ",
-"What is something that doesn’t make sense?",
-"Make a list of everything you’d like to say yes to.",
+"What goes here?",
+"What is a question?",
+"How does anything work?",
 "Write the words you need to hear." ];
